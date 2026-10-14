@@ -7,7 +7,7 @@ with the transaction signature as a receipt. Humans and unpriced agents pass thr
 Implements the ROBOTSTXT pay-to-crawl spec. Zero runtime dependencies, CommonJS, Node >= 18.
 
 ```sh
-npm install robotstxt-pay
+npm install https://github.com/robotstxt-pay/robotstxt-pay/tarball/main
 ```
 
 ## robots.txt

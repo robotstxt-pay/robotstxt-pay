@@ -1,0 +1,15 @@
+{
+  "name": "robotstxt-pay",
+  "version": "0.1.0",
+  "description": "Pay-to-crawl middleware for Node: robots.txt Price directives, HTTP 402 quotes, Solana payment receipts.",
+  "main": "index.js",
+  "files": ["index.js", "client.js", "README.md", "LICENSE"],
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["robots.txt", "402", "payment-required", "x402", "solana", "crawler", "middleware", "express", "ai"],
+  "license": "MIT"
+}
